@@ -1,2 +1,2 @@
 # Python-Camp
-Learning Python from basics to advanced 
+|Learning Python from basics to advanced 
